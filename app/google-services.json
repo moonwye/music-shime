@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025372918759",
+    "firebase_url": "https://music-chime-26d49-default-rtdb.firebaseio.com",
+    "project_id": "music-chime-26d49",
+    "storage_bucket": "music-chime-26d49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025372918759:android:59cb94eaf4880ef7d42342",
+        "android_client_info": {
+          "package_name": "com.example.misicchime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025372918759-kl4k7ra5uc956tr42ur90eijd20bnuki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt5cYe7RXE5bENZ-IA_D5XEL-fvAnFzQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025372918759-kl4k7ra5uc956tr42ur90eijd20bnuki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

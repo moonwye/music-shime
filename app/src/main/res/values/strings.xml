@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">music-chime</string>
+    <string name="button_start_screen">Добро пожаловать!</string>
+    <string name="logo_start_screen">TODO</string>
+    <string name="main_login_btn">Уже есть аккаунт? Войти</string>
+    <string name="main_join_btn">Регистрация</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="checkbox">Запомнить меня</string>
+    <string name="forget_password1">Забыли пароль?</string>
+    <string name="login_user">Логин:</string>
+    <string name="password_user">Пароль:</string>
+    <string name="login_btn">Войти</string>
+    <string name="numberUser">Номер телефона:</string>
+    <string name="loginbtn">Зарегистрироваться</string>
+    <string name="nameUser">Имя пользователя:</string>
+    <string name="passwordUser">Пароль:</string>
+    <string name="number_phone">Номер телефона:</string>
+    <string name="btn_home">TODO</string>
+    <string name="btn_profile">TODO</string>
+    <string name="btn_telega">TODO</string>
+    <string name="AdminLink">Для админа</string>
+    <string name="button">Button</string>
+    <string name="admin_panel_link">Для админа</string>
+    <string name="not_admin_panel_link">Для клиентов</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">UserName</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="fab">TODO</string>
+    <string name="telega_nav">Корзина</string>
+    <string name="orders_nav">Заказы</string>
+    <string name="categories_nav">Категории</string>
+    <string name="settings_nav">Настройки</string>
+    <string name="logout_nav">Выход</string>
+</resources>

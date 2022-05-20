@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/nav_name">
+        <item
+            android:id="@+id/nav_telega"
+            android:icon="@drawable/telega"
+            android:title="@string/telega_nav"
+            android:iconTint="@color/white"
+            />
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Заказы"
+            android:iconTint="@color/white"
+            />
+        <item
+            android:id="@+id/nav_categories"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Категории"
+            android:iconTint="@color/white"
+            />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Настройки"
+            android:iconTint="@color/white"
+            />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Выход"
+            android:iconTint="@color/white"
+            />
+
+    </group>
+</menu>
